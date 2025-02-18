@@ -40,12 +40,12 @@ Die ganz speziellen unter euch können auch C verwenden ;D
 **Problem:** Schreiben Sie eine Funktion, um zu überprüfen, ob eine Zahl eine Primzahl ist.  
 *Beschreibung:* Eine Primzahl ist eine Zahl größer als 1, die nur durch 1 und sich selbst teilbar ist. Diese Aufgabe besteht darin, zu überprüfen, ob eine gegebene Zahl eine Primzahl ist.
 
-## Tag 8
+## Tag 8 *️⃣
 
 **Problem:** Finden Sie die n-te Fibonacci-Zahl.  
 *Beschreibung:* Die Fibonacci-Folge ist eine Reihe von Zahlen, bei denen jede Zahl die Summe der beiden vorhergehenden ist. Sie müssen die n-te Fibonacci-Zahl zurückgeben.
 
-## Tag 9
+## Tag 9 *️⃣
 
 **Problem:** Schreiben Sie eine Funktion, um zwei sortierte Listen in eine zu kombinieren.  
 *Beschreibung:* Gegeben sind zwei sortierte Listen, die in eine einzige sortierte Liste zusammengeführt werden müssen.
