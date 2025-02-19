@@ -50,17 +50,17 @@ Die ganz speziellen unter euch können auch C verwenden ;D
 **Problem:** Schreiben Sie eine Funktion, um zwei sortierte Listen in eine zu kombinieren.  
 *Beschreibung:* Gegeben sind zwei sortierte Listen, die in eine einzige sortierte Liste zusammengeführt werden müssen.
 
-## Tag 10
+## Tag 10 *️⃣
 
 **Problem:** Schreiben Sie eine Funktion, um zu überprüfen, ob zwei Strings Anagramme sind.  
 *Beschreibung:* Ein Anagramm ist ein Wort oder Satz, der durch Umordnen der Buchstaben eines anderen Wortes gebildet wird. Diese Aufgabe besteht darin, zu überprüfen, ob zwei Strings Anagramme sind.
 
-## Tag 11
+## Tag 11 *️⃣
 
 **Problem:** Zählen Sie die Anzahl der Wörter in einem gegebenen Satz.  
 *Beschreibung:* Sie müssen eine Funktion schreiben, die die Anzahl der Wörter in einem Satz zählt, indem er nach Leerzeichen getrennt wird.
 
-## Tag 12
+## Tag 12 *️⃣
 
 **Problem:** Schreiben Sie eine Funktion, um die kleinste Zahl in einer Liste zu finden.  
 *Beschreibung:* Diese Aufgabe erfordert, dass Sie die kleinste Zahl in einer gegebenen Liste von Zahlen finden.
