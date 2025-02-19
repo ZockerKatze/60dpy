@@ -5,62 +5,62 @@ Falls DU! Hier mitmachen willst erstelle eine GitHub Repo wo du jeden tag einen 
 
 Die ganz speziellen unter euch können auch C verwenden ;D
 
-## Tag 1 ( Erklärungs Tag ) ✅
+## Tag 1 ( Erklärungs Tag )
 
 **Problem:** Finden Sie die Summe aller Zahlen in einer gegebenen Liste.
 *Beschreibung:* Diese Aufgabe erfordert, dass Sie eine Funktion schreiben, die eine Liste von Zahlen nimmt und die Summe aller Elemente in der Liste zurückgibt.
 
-## Tag 2 *️⃣
+## Tag 2 
 
 **Problem:** Schreiben Sie eine Funktion, um einen String umzukehren.  
 *Beschreibung:* Das Ziel ist es, eine Funktion zu schreiben, die einen String entgegengesetzt zurückgibt.
 
-## Tag 3 *️⃣
+## Tag 3 
 
 **Problem:** Überprüfen Sie, ob ein gegebener String ein Palindrom ist.  
 *Beschreibung:* Ein Palindrom ist ein String, der vorwärts und rückwärts gleich gelesen wird. Die Aufgabe besteht darin, zu überprüfen, ob ein gegebener String ein Palindrom ist.
 
-## Tag 4 *️⃣
+## Tag 4 
 
 **Problem:** Finden Sie die größte Zahl in einer gegebenen Liste.  
 *Beschreibung:* Diese Aufgabe erfordert das Finden des größten Elements in einer Liste von Zahlen.
 
-## Tag 5 *️⃣
+## Tag 5 
 
 **Problem:** Zählen Sie die Anzahl der Vokale in einem gegebenen String.  
 *Beschreibung:* Sie müssen eine Funktion schreiben, die zählt, wie viele Vokale (a, e, i, o, u) in einem gegebenen String erscheinen.
 
-## Tag 6 *️⃣
+## Tag 6 
 
 **Problem:** Schreiben Sie eine Funktion, um die Fakultät einer Zahl zu finden.  
 *Beschreibung:* Die Fakultät einer Zahl ist das Produkt aller positiven Ganzzahlen, die kleiner oder gleich dieser Zahl sind. Ihre Aufgabe ist es, eine Funktion zu implementieren, die die Fakultät einer gegebenen Zahl zurückgibt.
 
-## Tag 7 *️⃣
+## Tag 7 
 
 **Problem:** Schreiben Sie eine Funktion, um zu überprüfen, ob eine Zahl eine Primzahl ist.  
 *Beschreibung:* Eine Primzahl ist eine Zahl größer als 1, die nur durch 1 und sich selbst teilbar ist. Diese Aufgabe besteht darin, zu überprüfen, ob eine gegebene Zahl eine Primzahl ist.
 
-## Tag 8 *️⃣
+## Tag 8 
 
 **Problem:** Finden Sie die n-te Fibonacci-Zahl.  
 *Beschreibung:* Die Fibonacci-Folge ist eine Reihe von Zahlen, bei denen jede Zahl die Summe der beiden vorhergehenden ist. Sie müssen die n-te Fibonacci-Zahl zurückgeben.
 
-## Tag 9 *️⃣
+## Tag 9 
 
 **Problem:** Schreiben Sie eine Funktion, um zwei sortierte Listen in eine zu kombinieren.  
 *Beschreibung:* Gegeben sind zwei sortierte Listen, die in eine einzige sortierte Liste zusammengeführt werden müssen.
 
-## Tag 10 *️⃣
+## Tag 10 
 
 **Problem:** Schreiben Sie eine Funktion, um zu überprüfen, ob zwei Strings Anagramme sind.  
 *Beschreibung:* Ein Anagramm ist ein Wort oder Satz, der durch Umordnen der Buchstaben eines anderen Wortes gebildet wird. Diese Aufgabe besteht darin, zu überprüfen, ob zwei Strings Anagramme sind.
 
-## Tag 11 *️⃣
+## Tag 11 
 
 **Problem:** Zählen Sie die Anzahl der Wörter in einem gegebenen Satz.  
 *Beschreibung:* Sie müssen eine Funktion schreiben, die die Anzahl der Wörter in einem Satz zählt, indem er nach Leerzeichen getrennt wird.
 
-## Tag 12 *️⃣
+## Tag 12 
 
 **Problem:** Schreiben Sie eine Funktion, um die kleinste Zahl in einer Liste zu finden.  
 *Beschreibung:* Diese Aufgabe erfordert, dass Sie die kleinste Zahl in einer gegebenen Liste von Zahlen finden.
