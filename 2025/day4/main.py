@@ -1,4 +1,3 @@
-
 class Solution:
     def findmax(self, mylist=[]): 
         return max(mylist)
