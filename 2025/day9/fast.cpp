@@ -1,3 +1,10 @@
+/*
+This is a very inefficient way of doing this this would be 
+O(log n log)
+I will be doing a better version of this in the future!
+*/
+
+
 #include <iostream>
 #include <vector>
 
