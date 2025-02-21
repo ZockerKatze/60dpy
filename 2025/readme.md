@@ -75,22 +75,22 @@ Die ganz speziellen unter euch können auch C verwenden ;D
 **Problem:** Überprüfen Sie, ob eine gegebene Zahl eine perfekte Quadratzahl ist.  
 *Beschreibung:* Eine perfekte Quadratzahl ist eine ganze Zahl, die das Quadrat einer anderen Zahl ist. Schreiben Sie eine Funktion, um zu überprüfen, ob eine gegebene Zahl eine perfekte Quadratzahl ist.
 
-## Tag 15 ️DONE
+## Tag 15 ️*️⃣
 
 **Problem:** Schreiben Sie eine Funktion, um zu überprüfen, ob ein gegebener Jahr ein Schaltjahr ist.  
 *Beschreibung:* Ein Schaltjahr ist durch 4 teilbar, aber nicht durch 100, es sei denn, es ist auch durch 400 teilbar. Die Aufgabe besteht darin, zu überprüfen, ob ein gegebener Jahr ein Schaltjahr ist.
 
-## Tag 16 DONE!
+## Tag 16 *️⃣
 
 **Problem:** Finden Sie den GCD (größter gemeinsamer Teiler) von zwei Zahlen.  
 *Beschreibung:* Der GCD von zwei Zahlen ist die größte Zahl, die beide ohne Rest teilt. Schreiben Sie eine Funktion, um den GCD von zwei Zahlen zu finden.
 
-## Tag 17
+## Tag 17 *️⃣
 
 **Problem:** Finden Sie das kleinste gemeinsame Vielfache (LCM) von zwei Zahlen.  
 *Beschreibung:* Das LCM von zwei Zahlen ist die kleinste Zahl, die durch beide teilbar ist. Implementieren Sie eine Funktion, um das LCM zu finden.
 
-## Tag 18
+## Tag 18 *️⃣
 
 **Problem:** Schreiben Sie eine Funktion, um zu überprüfen, ob eine Zahl gerade oder ungerade ist.  
 *Beschreibung:* Ihre Aufgabe ist es, eine Funktion zu schreiben, die überprüft, ob eine gegebene Zahl gerade oder ungerade ist.
