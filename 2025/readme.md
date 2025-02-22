@@ -95,12 +95,12 @@ Die ganz speziellen unter euch können auch C verwenden ;D
 **Problem:** Schreiben Sie eine Funktion, um zu überprüfen, ob eine Zahl gerade oder ungerade ist.  
 *Beschreibung:* Ihre Aufgabe ist es, eine Funktion zu schreiben, die überprüft, ob eine gegebene Zahl gerade oder ungerade ist.
 
-## Tag 19
+## Tag 19 *️⃣
 
 **Problem:** Überprüfen Sie, ob ein gegebener String eine gültige E-Mail-Adresse ist.  
 *Beschreibung:* Diese Aufgabe besteht darin, zu überprüfen, ob ein String der Struktur einer gültigen E-Mail-Adresse folgt.
 
-## Tag 20
+## Tag 20 *️⃣
 
 **Problem:** Schreiben Sie eine Funktion, um eine Liste von Zahlen in aufsteigender Reihenfolge zu sortieren.  
 *Beschreibung:* Sie müssen eine Funktion implementieren, die eine Liste von Zahlen entgegennimmt und diese in aufsteigender Reihenfolge sortiert.
