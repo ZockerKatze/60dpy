@@ -105,12 +105,12 @@ Die ganz speziellen unter euch können auch C verwenden ;D
 **Problem:** Schreiben Sie eine Funktion, um eine Liste von Zahlen in aufsteigender Reihenfolge zu sortieren.  
 *Beschreibung:* Sie müssen eine Funktion implementieren, die eine Liste von Zahlen entgegennimmt und diese in aufsteigender Reihenfolge sortiert.
 
-## Tag 21
+## Tag 21 *️⃣
 
 **Problem:** Schreiben Sie eine Funktion, um den Index eines gegebenen Elements in einer Liste zu finden.  
 *Beschreibung:* Diese Aufgabe fordert eine Funktion, die den Index eines angegebenen Elements in einer Liste findet.
 
-## Tag 22
+## Tag 22 *️⃣
 
 **Problem:** Schreiben Sie eine Funktion, um zu überprüfen, ob eine Zahl sowohl durch 3 als auch durch 5 teilbar ist.  
 *Beschreibung:* Die Aufgabe besteht darin zu bestimmen, ob eine gegebene Zahl durch sowohl 3 als auch 5 teilbar ist.
