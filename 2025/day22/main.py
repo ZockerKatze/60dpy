@@ -1,4 +1,5 @@
 class Solution:
-    def check(self, x):
-        return x % 3 == 0 and x % 5 == 0
-sol = Solution() ; print(sol.check(15))
+    def isthing(self,x):
+        if x / 3 and x / 5: return True;
+        else: return False
+sol = Solution() ; print(sol.isthing(1))

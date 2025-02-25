@@ -7,12 +7,17 @@ class Solution
     public:
     bool check(int x)
     {
-        return x % 3 == 0 || x % 5 == 0;
+        if(x%3==0 && x%5==0) {
+            return true;
+        } else {
+            return false;
+        }
     }
 };
 
 int main()
 {
     Solution sol;
-    cout << sol.check(1) << endl;
+    cout << boolalpha << sol.check(15) << endl;
+    return 0;
 }
